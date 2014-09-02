@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="skoleni-grass-gis-zakladni.svg">
   <defs
      id="defs4" />
@@ -25,13 +25,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="579.23556"
-     inkscape:cy="748.43894"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="353.43639"
+     inkscape:cy="605.73184"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1854"
+     inkscape:window-width="1680"
      inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
@@ -118,14 +118,14 @@
     <text
        xml:space="preserve"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asana Math;-inkscape-font-specification:Asana Math"
-       x="378.10413"
-       y="218.57216"
+       x="382.30258"
+       y="219.0141"
        id="text3981"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3983"
-         x="378.10413"
-         y="218.57216"
+         x="382.30258"
+         y="219.0141"
          style="font-size:16px"><tspan
    style="font-size:16px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans Semi-Bold"
    id="tspan3995">Školitelé</tspan>:</tspan></text>
@@ -457,7 +457,7 @@
          x="385"
          y="530.36218"
          id="tspan4066-4"
-         style="font-size:18px">• Práce vektorových dat, topologie</tspan><tspan
+         style="font-size:18px">• Práce s vektorovými daty, topologie</tspan><tspan
          sodipodi:role="line"
          x="385"
          y="552.86218"
@@ -467,7 +467,7 @@
          x="385"
          y="575.36218"
          id="tspan4070-6"
-         style="font-size:18px">• Automatizace úloh (modeler, Python) </tspan><tspan
+         style="font-size:18px">• Automatizace úloh (modeler) </tspan><tspan
          sodipodi:role="line"
          x="385"
          y="597.86218"
