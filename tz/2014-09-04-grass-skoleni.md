@@ -1,7 +1,7 @@
 Školení GRASS GIS - Úvod do systému
 
-Gismentors.eu si vás dovolují pozvat na základní školení GRASS GIS, které se
-uskuteční 10 a 11. listopadu 2014. V tomto kurzu Vás naučíme zvládat základní
+GISMentors.eu si Vás dovolují pozvat na základní školení GRASS GIS, které se
+uskuteční 10. a 11. listopadu 2014. V tomto kurzu Vás naučíme zvládat základní
 techniky práce v systému GRASS, práci s rastrovými a vektorovými geodaty,
 provádět běžné GIS analýzy a vytvářet mapové výstupy.
 
