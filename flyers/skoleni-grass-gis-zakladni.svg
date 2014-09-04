@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="skoleni-grass-gis-zakladni.svg">
   <defs
      id="defs4" />
@@ -25,15 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-<<<<<<< HEAD
      inkscape:zoom="1.4142136"
-     inkscape:cx="579.23556"
-     inkscape:cy="239.32207"
-=======
-     inkscape:zoom="0.7071068"
-     inkscape:cx="353.43639"
-     inkscape:cy="605.73184"
->>>>>>> 6cc982e594a1ae4d7af775c0b83117567e66146b
+     inkscape:cx="464.63222"
+     inkscape:cy="295.71603"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -41,7 +35,7 @@
      inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
        id="grid4114" />
