@@ -6,5 +6,5 @@ naučíme zvládat základní techniky práce v systému GRASS, práci s
 rastrovými a vektorovými geodaty, provádět běžné GIS analýzy a
 vytvářet mapové výstupy.
 
-Více informací a přihlášení: http://www.gismentors.eu/skoleni/grass-gis.html
+Více informací a registrace: http://www.gismentors.eu/skoleni/grass-gis.html
 Kontakt: info@gismentors.eu
