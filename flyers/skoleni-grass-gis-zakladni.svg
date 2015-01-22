@@ -31,11 +31,11 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
-     inkscape:window-width="1680"
+     inkscape:window-width="1854"
      inkscape:window-height="1048"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
        id="grid4114" />
@@ -114,7 +114,7 @@
          id="tspan3979"
          x="138"
          y="634.36218"
-         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans">10. a 11. listopadu 2014</tspan></text>
+         style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeSans;-inkscape-font-specification:FreeSans">24. a 25. dubna 2014</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asana Math;-inkscape-font-specification:Asana Math"
@@ -174,17 +174,12 @@
          x="80"
          y="552.86218"
          style="font-size:18px"
-         id="tspan4082">• Úvod do síťových analýz</tspan><tspan
+         id="tspan4078">• Rastrové analýzy, reklasifikace dat  </tspan><tspan
          sodipodi:role="line"
          x="80"
          y="575.36218"
          style="font-size:18px"
-         id="tspan4099">• Klasifikace obrazových dat</tspan><tspan
-         sodipodi:role="line"
-         x="80"
-         y="597.86218"
-         style="font-size:18px"
-         id="tspan4078">• Tvorba mapových výstupů</tspan></text>
+         id="tspan3073">• Tvorba mapových výstupů</tspan></text>
     <image
        y="894.6546"
        x="131.10539"
@@ -248,7 +243,7 @@
          sodipodi:role="line"
          x="136"
          y="860.68219"
-         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:130.99999428%;font-family:FreeSans;-inkscape-font-specification:FreeSans">Maximální počet účastníku kurzu: 12</tspan></text>
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:130.99999428%;font-family:FreeSans;-inkscape-font-specification:FreeSans">Maximální počet účastníku kurzu: 10</tspan></text>
     <image
        y="772.36218"
        x="522.85706"
@@ -303,14 +298,14 @@
          id="tspan3072"
          x="135"
          y="672.36218"
-         style="font-size:22px;line-height:129.99999523%">• 1000,- Kč • student při registraci do 15.10., <tspan
+         style="font-size:22px;line-height:129.99999523%">• 1000,- Kč • student při registraci do 31.3., <tspan
    style="font-size:16px"
    id="tspan4137">maximálně 5 míst</tspan></tspan><tspan
          sodipodi:role="line"
          x="135"
          y="700.96216"
          id="tspan3074"
-         style="font-size:22px;line-height:129.99999523%">• 6000,- Kč • včasná registrace do 15.10.</tspan><tspan
+         style="font-size:22px;line-height:129.99999523%">• 6000,- Kč • včasná registrace do 31.3.</tspan><tspan
          sodipodi:role="line"
          x="135"
          y="729.56219"
@@ -401,22 +396,22 @@
          style="font-size:18px">V tomto kurzu Vás naučíme samostatně </tspan><tspan
          sodipodi:role="line"
          x="60"
-         y="357.36218"
+         y="354.86218"
          style="font-size:18px"
          id="tspan4006">pracovat s geografickými daty v systému</tspan><tspan
          sodipodi:role="line"
          x="60"
-         y="382.36218"
+         y="377.36218"
          style="font-size:18px"
-         id="tspan4008">GRASS, pracovat s 2D/3D rastrovými a </tspan><tspan
+         id="tspan4010">GRASS, pracovat s rastrovými</tspan><tspan
          sodipodi:role="line"
          x="60"
-         y="407.36218"
+         y="399.86218"
          style="font-size:18px"
-         id="tspan4010">vektorovými daty, provádět běžné GIS</tspan><tspan
+         id="tspan3077">a vektorovými daty, provádět běžné GIS</tspan><tspan
          sodipodi:role="line"
          x="60"
-         y="432.36218"
+         y="422.36218"
          style="font-size:18px"
          id="tspan4012">analýzy a vytvářet mapové výstupy. </tspan></text>
     <path
@@ -452,7 +447,7 @@
          x="385"
          y="507.86218"
          id="tspan4062-0"
-         style="font-size:18px">• Integrace s QGISem</tspan><tspan
+         style="font-size:18px">• Georeferencování</tspan><tspan
          sodipodi:role="line"
          x="385"
          y="530.36218"
@@ -462,7 +457,7 @@
          x="385"
          y="552.86218"
          id="tspan4068-4"
-         style="font-size:18px">• Úvod do hydrologických analýz</tspan><tspan
+         style="font-size:18px">• Prostorové a atributové dotazování</tspan><tspan
          sodipodi:role="line"
          x="385"
          y="575.36218"
