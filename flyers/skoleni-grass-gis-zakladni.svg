@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="skoleni-grass-gis-zakladni.svg">
   <defs
      id="defs4" />
@@ -27,12 +27,12 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1.4142136"
      inkscape:cx="464.63222"
-     inkscape:cy="267.43176"
+     inkscape:cy="352.28457"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1854"
-     inkscape:window-height="1048"
+     inkscape:window-width="1614"
+     inkscape:window-height="1017"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1">
@@ -233,14 +233,14 @@
          x="136"
          y="810.36218"
          style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:130.99999428%;font-family:FreeSans;-inkscape-font-specification:FreeSans"
-         id="tspan3932">Praha/Brno <tspan
+         id="tspan3932">Praha / Brno <tspan
    style="font-style:italic;-inkscape-font-specification:FreeSans Italic"
    id="tspan3179">(bude upřesněno)</tspan></tspan><tspan
          id="tspan3917"
          sodipodi:role="line"
          x="136"
-         y="839.18219"
-         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:130.99999428000000989%;font-family:FreeSans;-inkscape-font-specification:FreeSans">Maximální počet účastníku kurzu: 10</tspan></text>
+         y="833.28717"
+         style="font-size:16px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:130.99999428%;font-family:FreeSans;-inkscape-font-specification:FreeSans">Maximální počet účastníku kurzu: 12</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Asana Math;-inkscape-font-specification:Asana Math"
@@ -288,19 +288,19 @@
          id="tspan3072"
          x="135"
          y="720.36218"
-         style="font-size:22px;line-height:129.99999523%">• 1000,- Kč • student při včasné registraci, <tspan
+         style="font-size:22px;line-height:129.99999523%">• 1 000,- Kč • student při včasné registraci, <tspan
    style="font-size:16px"
    id="tspan4137">maximálně 5 míst</tspan></tspan><tspan
          sodipodi:role="line"
          x="135"
          y="748.96216"
          id="tspan3074"
-         style="font-size:22px;line-height:129.99999523%">• 6000,- Kč • včasná registrace</tspan><tspan
+         style="font-size:22px;line-height:129.99999523%">• 6 000,- Kč • včasná registrace</tspan><tspan
          sodipodi:role="line"
          x="135"
          y="777.56219"
          id="tspan3076"
-         style="font-size:22px;line-height:129.99999523%">• 8000,- Kč • plná cena</tspan></text>
+         style="font-size:22px;line-height:129.99999523%">• 8 000,- Kč • plná cena</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:150%;letter-spacing:0px;word-spacing:0px;fill:#008f00;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
@@ -393,7 +393,7 @@
          x="60"
          y="381.36218"
          style="font-size:18px"
-         id="tspan4010">GRASS, pracovat s rastrovými</tspan><tspan
+         id="tspan4010">GRASS, manipulovat s rastrovými</tspan><tspan
          sodipodi:role="line"
          x="60"
          y="403.86218"
@@ -464,7 +464,7 @@
          style="font-size:18px"
          id="tspan4078-0">• <tspan
    style="font-size:18px;font-style:italic;-inkscape-font-specification:FreeSans Italic"
-   id="tspan4357-0">Další témata pod Vašich potřeb...</tspan></tspan></text>
+   id="tspan4357-0">Další témata dle Vašich potřeb...</tspan></tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4113"
