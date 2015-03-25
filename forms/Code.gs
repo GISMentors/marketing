@@ -53,7 +53,7 @@
     textbody = message.replace("<br>", "\n");
      
     GmailApp.sendEmail(sender, subject, textbody,
-                       {bcc: bcc, name: sendername, htmlBody: message});
+                       {cc: cc, bcc: bcc, name: sendername, htmlBody: message});
     } catch (e) {
     Logger.log(e.toString());
     }
