@@ -34,7 +34,7 @@
     // This is the body of the auto-reply
     f = FormApp.getActiveForm();
     title = ss.getName();
-    message = "Dobrý den,<br>tímto povrzujeme přijetí Vaší přihlášky na kurz GISMentors '" + 
+    message = "Dobrý den,<br>tímto potvrzujeme přijetí Vaší přihlášky na kurz GISMentors '" + 
     title + "'.<br>V následujicím kroku Vám budou sděleny další podrobnosti o školení.<br><br>" +
     "Děkujeme a těšíme se na viděnou. S pozdravem GISMentors.<br><br>";
     
