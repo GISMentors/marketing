@@ -16,7 +16,7 @@ function update_html {
 	cd ~
 	echo updating $1
 	cd $1
-        make html$1
+        make html$2
 }
 
 function update_pdf {
@@ -42,9 +42,9 @@ do
     if [ $workshop == "grass-gis-zacatecnik" -o \
 	$workshop == "otevrena-geodata" -o \
 	$workshop == "postgis-zacatecnik" ] ; then
-        update_html full
+        update_html $workshop full
 	update_pdf $workshop
     else
-        update_html
+        update_html $workshop
     fi
 done
