@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="info-left.svg">
+  <defs
+     id="defs4">
+    <path
+       d="M150,600                  a450,450 0 1,1 900,0                "
+       id="opengeolabs" />
+    <path
+       d="M80,600                  a520,520 0 0,0 1040,0                "
+       id="gismentors" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="491.6511"
+     inkscape:cy="484.26706"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1614"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <g
+       id="g3161"
+       transform="translate(258.57142,-2.8571423)">
+      <path
+         id="path3058"
+         d="m 555.24187,447.22084 a 85.629924,85.629924 0 1 1 -76.77166,147.6378"
+         inkscape:connector-curvature="0"
+         style="fill:none;stroke:#000000;stroke-width:14.76377964" />
+      <rect
+         id="rect3060"
+         height="88.58268"
+         width="112.20473"
+         y="485.60666"
+         x="457.8009"
+         style="fill:#000000;stroke:none" />
+      <rect
+         id="rect3062"
+         height="100.39371"
+         width="124.01575"
+         y="479.70117"
+         x="451.89542"
+         style="fill:none;stroke:#000000;stroke-width:7.38188982" />
+      <path
+         id="path3064"
+         d="m 466.65919,650.961 a 67.91339,23.769687 0 1 1 135.82678,0"
+         inkscape:connector-curvature="0"
+         style="fill:#000000;stroke:none" />
+      <text
+         id="text3066"
+         font-size="120"
+         font-weight="bold"
+         y="515.13422"
+         x="457.8009"
+         style="font-size:35.43307114px;font-weight:bold;fill:#ffffff;font-family:Verdana">#</text>
+      <circle
+         transform="matrix(0.2952756,0,0,0.2952756,348.54895,364.54367)"
+         id="circle3068"
+         r="30"
+         cy="900"
+         cx="630"
+         sodipodi:cx="630"
+         sodipodi:cy="900"
+         sodipodi:rx="30"
+         sodipodi:ry="30"
+         style="fill:#000000;stroke:none"
+         d="m 660,900 c 0,16.56854 -13.43146,30 -30,30 -16.56854,0 -30,-13.43146 -30,-30 0,-16.56854 13.43146,-30 30,-30 16.56854,0 30,13.43146 30,30 z" />
+      <text
+         transform="matrix(0.2952756,0,0,0.2952756,352.54895,364.54367)"
+         id="text3072"
+         font-size="125"
+         font-weight="bold"
+         style="font-size:125px;font-weight:bold;fill:#000000;stroke:#000000;font-family:Verdana"
+         y="0"
+         x="0">
+        <textPath
+           id="textPath3074"
+           startOffset="20%"
+           xlink:href="#gismentors">gismentors.eu</textPath>
+      </text>
+      <text
+         transform="matrix(0.2952756,0,0,0.2952756,348.54895,364.54367)"
+         id="text3076"
+         font-size="180"
+         style="font-size:180px;fill:#000000;stroke:#000000;font-family:Verdana"
+         y="50"
+         x="0">
+        <textPath
+           id="textPath3078"
+           startOffset="5.9999999%"
+           xlink:href="#opengeolabs">OpenGeoLabs</textPath>
+      </text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="539.47321"
+       y="783.79071"
+       id="text3099"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3101"
+         x="252.87946"
+         y="783.79071"
+         style="font-size:48px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Školení</tspan><tspan
+         sodipodi:role="line"
+         x="252.87946"
+         y="843.79071"
+         id="tspan3103"
+         style="font-size:48px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">QGIS pro začátečníky</tspan><tspan
+         sodipodi:role="line"
+         x="252.87946"
+         y="903.79071"
+         id="tspan3105"
+         style="font-size:48px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">20.11.2015</tspan><tspan
+         sodipodi:role="line"
+         x="252.87946"
+         y="963.79071"
+         id="tspan3107"
+         style="font-size:48px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">B-870</tspan></text>
+    <g
+       id="g3968"
+       transform="matrix(0,0.72360668,0.72360668,0,-170.22015,-90.587326)">
+      <rect
+         transform="translate(0,308.2677)"
+         y="244.09448"
+         x="842.85712"
+         height="421.42856"
+         width="55.714287"
+         id="rect3192"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.4000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         inkscape:transform-center-y="-27.142857"
+         inkscape:transform-center-x="-0.065024754"
+         transform="translate(24.285715,416.83913)"
+         d="m 938.57142,138.3802 -94.22069,0.11262 -94.22069,0.11263 47.01281,-81.653826 47.01281,-81.653824 47.20788,81.541199 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.569601"
+         sodipodi:arg1="0.52240343"
+         sodipodi:r2="54.39838"
+         sodipodi:r1="108.79676"
+         sodipodi:cy="84.094482"
+         sodipodi:cx="844.28571"
+         sodipodi:sides="3"
+         id="path3966"
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:2.4000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="star" />
+    </g>
+  </g>
+</svg>
