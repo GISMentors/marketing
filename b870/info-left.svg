@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -141,21 +141,21 @@
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3101"
-         x="252.87946"
+         x="539.47321"
          y="783.79071"
          style="font-size:48px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Školení</tspan><tspan
          sodipodi:role="line"
-         x="252.87946"
+         x="539.47321"
          y="843.79071"
          id="tspan3103"
-         style="font-size:48px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">QGIS pro začátečníky</tspan><tspan
+         style="font-size:48px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">GRASS GIS pro začátečníky</tspan><tspan
          sodipodi:role="line"
-         x="252.87946"
+         x="539.47321"
          y="903.79071"
          id="tspan3105"
-         style="font-size:48px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">20.11.2015</tspan><tspan
+         style="font-size:48px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">27.11.2015</tspan><tspan
          sodipodi:role="line"
-         x="252.87946"
+         x="539.47321"
          y="963.79071"
          id="tspan3107"
          style="font-size:48px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">B-870</tspan></text>
