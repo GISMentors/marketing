@@ -14,7 +14,7 @@
    height="744.09448"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="info-top.svg">
   <defs
      id="defs4">
@@ -33,15 +33,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="491.6511"
+     inkscape:cx="220.93681"
      inkscape:cy="484.26706"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1614"
-     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -104,8 +104,7 @@
          sodipodi:cy="900"
          sodipodi:rx="30"
          sodipodi:ry="30"
-         style="fill:#000000;stroke:none"
-         d="m 660,900 c 0,16.56854 -13.43146,30 -30,30 -16.56854,0 -30,-13.43146 -30,-30 0,-16.56854 13.43146,-30 30,-30 16.56854,0 30,13.43146 30,30 z" />
+         style="fill:#000000;stroke:none" />
       <text
          transform="matrix(0.2952756,0,0,0.2952756,352.54895,364.54367)"
          id="text3072"
@@ -134,31 +133,26 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="539.47321"
-       y="783.79071"
+       y="809.79071"
        id="text3099"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3101"
          x="539.47321"
-         y="783.79071"
-         style="font-size:42px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">Školení</tspan><tspan
+         y="809.79071"
+         style="font-weight:bold;font-size:50px;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">Školení</tspan><tspan
          sodipodi:role="line"
          x="539.47321"
-         y="843.79071"
+         y="872.29071"
          id="tspan3103"
-         style="font-size:42px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">GRASS GIS pro začátečníky</tspan><tspan
+         style="font-weight:bold;font-size:50px;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">QGIS pro začátečníky</tspan><tspan
          sodipodi:role="line"
          x="539.47321"
-         y="903.79071"
-         id="tspan3105"
-         style="font-size:42px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">27.11.2015</tspan><tspan
-         sodipodi:role="line"
-         x="539.47321"
-         y="963.79071"
+         y="934.79071"
          id="tspan3107"
-         style="font-size:42px;font-weight:bold;text-align:center;text-anchor:middle;-inkscape-font-specification:Sans Bold">B-870</tspan></text>
+         style="font-weight:bold;font-size:50px;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">B-870</tspan></text>
     <g
        id="g3968"
        transform="matrix(-0.72360668,0,0,0.72360668,1535.3852,169.48086)">
