@@ -26,18 +26,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="175.63998"
-     inkscape:cy="642.83438"
+     inkscape:zoom="1.4"
+     inkscape:cx="352.9557"
+     inkscape:cy="205.38173"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1680"
-     inkscape:window-height="987"
+     inkscape:window-height="986"
      inkscape:window-x="0"
-     inkscape:window-y="39"
+     inkscape:window-y="27"
      inkscape:window-maximized="1">
     <sodipodi:guide
        position="0,1032.5"
@@ -647,7 +647,7 @@
          id="tspan3979"
          x="373.90445"
          y="534.70184"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end">www.gismentors.cz/terminy </tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:end;text-anchor:end">www.gismentors.cz/skoleni/terminy </tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:129.99999523%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
@@ -761,28 +761,28 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none"
        x="41.685402"
-       y="265.24466"
+       y="233.24466"
        id="text3984"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          x="41.685402"
-         y="265.24466"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         y="233.24466"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="tspan4012">V tomto kurzu Vás naučíme samostatně pracovat </tspan><tspan
          sodipodi:role="line"
          x="41.685402"
-         y="283.99466"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         y="255.11966"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="tspan4706">s geografickými daty v systému GRASS GIS, manipulovat </tspan><tspan
          sodipodi:role="line"
          x="41.685402"
-         y="302.74466"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         y="276.99466"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="tspan4712">s rastrovými a vektorovými daty, provádět běžné </tspan><tspan
          sodipodi:role="line"
          x="41.685402"
-         y="321.49466"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
+         y="298.86966"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
          id="tspan4322">GIS analýzy a vytvářet mapové výstupy.</tspan></text>
     <image
        style="display:inline;opacity:0.98999999"
@@ -828,30 +828,6 @@
          y="1017.9294"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Italic';fill:#ffffff;fill-opacity:1"
          id="tspan4340">OpenGeoLabs s.r.o. - opengeolabs.cz</tspan></text>
-    <path
-       inkscape:connector-curvature="0"
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:3.86600018;stroke-opacity:1"
-       d="m 351.33022,971.54923 a 22.422801,22.422801 0 1 1 -20.10319,38.65997"
-       id="path4" />
-    <rect
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:40"
-       x="325.81464"
-       y="981.60095"
-       width="29.381603"
-       height="23.196001"
-       id="rect6" />
-    <rect
-       style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.93300009;stroke-opacity:1"
-       x="324.26825"
-       y="980.05444"
-       width="32.474403"
-       height="26.288801"
-       id="rect8" />
-    <path
-       inkscape:connector-curvature="0"
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:50"
-       d="m 328.13423,1024.9 a 17.783602,6.2242607 0 1 1 35.5672,0"
-       id="path10" />
     <text
        style="font-weight:bold;font-size:9.66499996px;font-family:Verdana;display:inline;fill:#000000;fill-opacity:1"
        x="325.81464"
@@ -859,11 +835,38 @@
        font-weight="bold"
        font-size="125"
        id="text12">#</text>
-    <circle
-       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       cx="345.91785"
-       cy="1019.4876"
-       r="2.3196001"
-       id="circle14" />
+    <g
+       id="g4570">
+      <path
+         id="path4"
+         d="m 351.33022,971.54923 a 22.422801,22.422801 0 1 1 -20.10319,38.65997"
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:3.86600018;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <rect
+         id="rect6"
+         height="23.196001"
+         width="29.381603"
+         y="981.60095"
+         x="325.81464"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:40" />
+      <rect
+         id="rect8"
+         height="26.288801"
+         width="32.474403"
+         y="980.05444"
+         x="324.26825"
+         style="display:inline;fill:none;stroke:#ffffff;stroke-width:1.93300009;stroke-opacity:1" />
+      <path
+         id="path10"
+         d="m 328.13423,1024.9 a 17.783602,6.2242607 0 1 1 35.5672,0"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:50"
+         inkscape:connector-curvature="0" />
+      <circle
+         id="circle14"
+         r="2.3196001"
+         cy="1019.4876"
+         cx="345.91785"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
   </g>
 </svg>
