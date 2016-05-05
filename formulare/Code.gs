@@ -20,7 +20,7 @@
     var f, ss, cc, bcc, sendername, subject, columns;
     var message, value, textbody, sender, title;
     // This is your email address and you will be in the CC
-    cc = "info@gismentors.eu";
+    cc = "info@gismentors.cz";
     bcc = Session.getActiveUser().getEmail();
     // This will show up as the sender's name
     sendername = "GISMentors";
@@ -35,8 +35,9 @@
     f = FormApp.getActiveForm();
     title = ss.getName();
     message = "Dobrý den,<br>tímto potvrzujeme přijetí Vaší přihlášky na kurz GISMentors '" + 
-    title + "'.<br>V následujicím kroku Vám budou sděleny další podrobnosti o školení.<br><br>" +
-    "Děkujeme a těšíme se na viděnou. S pozdravem GISMentors.<br><br>";
+    title + "'.<br>V následujicím kroku Vám budou sděleny další podrobnosti o školení a to " +
+    "nejpozději 14 dní před konáním kurzu.<br><br>" +
+    "Děkujeme za Vaši přízeň a těšíme se na viděnou. S pozdravem GISMentors.<br><br>";
     
     columns = ss.getRange(1, 1, 1, ss.getLastColumn()).getValues()[0];
      
