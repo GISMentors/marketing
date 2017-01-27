@@ -20,20 +20,21 @@
     var f, ss, cc, bcc, sendername, subject, columns;
     var message, value, textbody, sender, title;
     // This is your email address and you will be in the CC
-    cc = "info@gismentors.cz";
+    replyTo = "info@gismentors.cz";
     bcc = Session.getActiveUser().getEmail();
     // This will show up as the sender's name
     sendername = "GISMentors";
-     
-    // Optional but change the following variable
-    // to have a custom subject for Google Docs emails
-    subject = "Potvrzeni prihlasky na skoleni GISMentors";
-    
+
     ss = SpreadsheetApp.getActiveSheet();
       
     // This is the body of the auto-reply
     f = FormApp.getActiveForm();
     title = ss.getName();
+
+    // Optional but change the following variable
+    // to have a custom subject for Google Docs emails
+    subject = "Potvrzení přihlášky na školení GISMentors " + title;
+
     message = "Dobrý den,<br>tímto potvrzujeme přijetí Vaší přihlášky na kurz GISMentors '" + 
     title + "'.<br>V následujicím kroku Vám budou sděleny další podrobnosti o školení a to " +
     "nejpozději 14 dní před konáním kurzu.<br><br>" +
@@ -54,8 +55,8 @@
     textbody = message.replace("<br>", "\n");
      
     GmailApp.sendEmail(sender, subject, textbody,
-                       {cc: cc, bcc: bcc, name: sendername, htmlBody: message});
+                       {bcc: bcc, name: sendername, htmlBody: message, replyTo: replyTo});
     } catch (e) {
     Logger.log(e.toString());
     }
-    }
+}
