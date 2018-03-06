@@ -43,7 +43,7 @@
     columns = ss.getRange(1, 1, 1, ss.getLastColumn()).getValues()[0];
      
     // This is the submitter's email address
-    sender = e.namedValues["E-mail"].toString();
+    sender = e.namedValues["Kontaktní e-mail"].toString();
      
     // Only include form values that are not blank
     for ( var keys in columns ) {
