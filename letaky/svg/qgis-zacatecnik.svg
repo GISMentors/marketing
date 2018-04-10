@@ -78,10 +78,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="537.1447"
-     inkscape:cy="829.20885"
+     inkscape:cx="416.84843"
+     inkscape:cy="467.72494"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer5"
      showgrid="false"
      inkscape:window-width="781"
      inkscape:window-height="848"
@@ -270,20 +270,20 @@
        font-size="125"
        id="text12">#</text>
     <g
-       transform="matrix(1.0871246,0,0,1.0871246,408.4051,-49.545075)"
+       transform="matrix(1.0871246,0,0,1.0871246,401.77597,-42.915949)"
        id="g111">
       <polygon
          style="fill:#ee7913"
          id="polygon3"
-         points="176,162 176,183.433 195,202.37 195,180 216.513,180 198.306,162 " />
+         points="195,180 216.513,180 198.306,162 176,162 176,183.433 195,202.37 " />
       <polygon
          style="fill:url(#SVGID_4_)"
          id="polygon31"
-         points="204,211.34 240.782,248 264,248 264,226.946 225.617,189 204,189 " />
+         points="264,226.946 225.617,189 204,189 204,211.34 240.782,248 264,248 " />
       <polygon
          style="fill:#f0e64a"
          id="polygon33"
-         points="195,180 195,202.37 204,211.34 204,189 225.617,189 216.513,180 " />
+         points="204,189 225.617,189 216.513,180 195,180 195,202.37 204,211.34 " />
       <g
          id="g69">
         <path
@@ -394,7 +394,7 @@
          id="tspan4216"
          x="33.171574"
          y="131.53378"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:150px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#e4f363;fill-opacity:1">QGIS</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:150px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#e4f363;fill-opacity:1">QGIS</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -555,11 +555,11 @@
          x="497.5889"
          y="421.78616"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:1.5;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000"
-         id="tspan3467"> <tspan
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:1.39999998;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
-   id="tspan138"> </tspan><tspan
-   id="tspan146"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.39999998;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">- import, dotazování, GPS,</tspan></tspan><tspan
+         id="tspan3467"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:1.39999998;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold'"
+           id="tspan138" /><tspan
+           id="tspan146"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.39999998;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'">- import, dotazování, GPS,</tspan></tspan><tspan
          sodipodi:role="line"
          x="497.5889"
          y="447.16116"
@@ -574,9 +574,9 @@
          x="497.5889"
          y="498.78616"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:1.5;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;text-anchor:start;fill:#000000"
-         id="tspan3456">  <tspan
-   style="line-height:1.39999998"
-   id="tspan148">- import, analýzy terénu,</tspan></tspan><tspan
+         id="tspan3456"><tspan
+           style="line-height:1.39999998"
+           id="tspan148">- import, analýzy terénu,</tspan></tspan><tspan
          sodipodi:role="line"
          x="497.5889"
          y="524.16113"
@@ -591,9 +591,9 @@
          x="497.5889"
          y="575.78613"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:1.5;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:start;text-anchor:start;fill:#000000"
-         id="tspan4422"> <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
-   id="tspan144"> - WMS, WFS</tspan></tspan><tspan
+         id="tspan4422"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1.5;font-family:'Open Sans';-inkscape-font-specification:'Open Sans'"
+           id="tspan144"> - WMS, WFS</tspan></tspan><tspan
          sodipodi:role="line"
          x="497.5889"
          y="602.03613"
@@ -630,15 +630,15 @@
          x="498.81622"
          y="935.86224"
          id="tspan4277"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:83.99999738%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#ffffff;fill-opacity:1">Počet účastníků kurzu je </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:83.99999738%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1">Počet účastníků kurzu je </tspan><tspan
          sodipodi:role="line"
          x="498.81622"
          y="947.41223"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:83.99999738%;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.75px;line-height:83.99999738%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;fill-opacity:1"
          id="tspan3514">omezen na 12 osob</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-size:22.50000006px;"
        x="39.514717"
        y="968.81305"
        id="text4424"><tspan
@@ -646,18 +646,18 @@
          x="39.514717"
          y="968.81305"
          id="tspan4428"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#ffffff">včasná registrace: 4000,- Kč</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.50000006px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;">včasná registrace: 4000,- Kč</tspan><tspan
          sodipodi:role="line"
          x="39.514717"
          y="996.93805"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.50000006px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;"
          id="tspan3443">student <tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:Calibri;-inkscape-font-specification:'Calibri, Normal';text-align:start;writing-mode:lr-tb;text-anchor:start"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.50000006px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;"
    id="tspan5842">(maximálně 5 míst)</tspan>: 1000,- Kč </tspan><tspan
          sodipodi:role="line"
          x="39.514717"
          y="1025.063"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#ffffff"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.50000006px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';fill:#ffffff;"
          id="tspan4432">plná cena: 5000,- Kč</tspan></text>
     <text
        id="text3445"
@@ -781,5 +781,15 @@
            height="69.399994"
            x="65"
            y="227.51968" /></flowRegion><flowPara
-         id="flowPara164"></flowPara></flowRoot>  </g>
+         id="flowPara164" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot162"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion164"><rect
+           id="rect166"
+           width="188.13182"
+           height="44.72649"
+           x="494.93332"
+           y="745.453" /></flowRegion><flowPara
+         id="flowPara168"></flowPara></flowRoot>  </g>
 </svg>
