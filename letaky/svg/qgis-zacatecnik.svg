@@ -79,7 +79,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="1"
      inkscape:cx="320.06665"
-     inkscape:cy="686.02841"
+     inkscape:cy="206.02841"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -4199,5 +4199,15 @@ AABJRU5ErkJggg==
        preserveAspectRatio="none"
        height="328.5"
        width="464" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot384"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion386"><rect
+           id="rect388"
+           width="137"
+           height="132"
+           x="159"
+           y="812.51971" /></flowRegion><flowPara
+         id="flowPara390"></flowPara></flowRoot>  </g>
 </svg>
