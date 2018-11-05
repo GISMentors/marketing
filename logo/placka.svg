@@ -1,0 +1,61 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="10cm" height="10cm" viewBox="0 0 1200 1200"
+     xmlns="http://www.w3.org/2000/svg" version="1.1"
+     xmlns:xlink="http://www.w3.org/1999/xlink">
+
+    <defs>
+        <path id="gismentors"
+              d="M80,600
+                 a520,520 0 0,0 1040,0
+               "
+                />
+        <path id="opengeolabs"
+              d="M150,600
+                 a450,450 0 1,1 900,0
+               "
+                />
+    </defs>
+
+  <path d="M700,280 a290,290 0 1,1 -260,500"
+        fill="none" stroke="black" stroke-width="50" />
+
+  <rect x="370" y="410" width="380" height="300"
+        fill="black" stroke="none" stroke-width="40" />
+
+  <rect x="350" y="390" width="420" height="340"
+        fill="none" stroke="black" stroke-width="25" />
+
+  <path d="M400,970 a200,70 0 1,1 460,0"
+        fill="black" stroke="none" stroke-width="50" />
+
+ <text x="370" y="510" 
+        font-family="Verdana" font-weight="bold" font-size="120" fill="white" >
+    #
+  </text>
+
+
+  <circle cx="630" cy="900" r="30" stroke="none" fill="black" />
+
+  <circle cx="600" cy="600" r="570" stroke="black" fill="none" stoke-width="5" />
+  
+
+    <text x="0" y="0" style="stroke: #000000;"
+        font-family="Verdana" font-weight="bold" font-size="125" fill="black" >
+      <textPath xlink:href="#gismentors" startOffset="20%">
+           gismentors.eu
+      </textPath>
+    </text>
+
+    <text x="0" y="50" style="stroke: #000000;"
+        font-family="Verdana" font-size="180" fill="black">
+      <textPath xlink:href="#opengeolabs" startOffset="6%">
+           OpenGeoLabs
+      </textPath>
+    </text>
+
+
+
+</svg>
+

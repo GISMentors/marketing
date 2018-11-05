@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="10cm" height="10cm" viewBox="0 0 800 800"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <path d="M500,80 a290,290 0 1,1 -260,500"
+        fill="none" stroke="black" stroke-width="50" />
+
+  <rect x="170" y="210" width="380" height="300"
+        fill="black" stroke="none" stroke-width="40" />
+
+  <rect x="150" y="190" width="420" height="340"
+        fill="none" stroke="black" stroke-width="25" />
+
+  <path d="M200,770 a200,70 0 1,1 460,0"
+        fill="black" stroke="none" stroke-width="50" />
+
+ <text x="170" y="310" 
+        font-family="Verdana" font-weight="bold" font-size="125" fill="white" >
+    #
+  </text>
+
+
+  <circle cx="430" cy="700" r="30" stroke="none" fill="black" />
+
+
+
+</svg>
+
