@@ -28,16 +28,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="652.96652"
-     inkscape:cy="285.02581"
+     inkscape:zoom="0.7"
+     inkscape:cx="281.82118"
+     inkscape:cy="731.28696"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1853"
-     inkscape:window-height="1016"
-     inkscape:window-x="67"
-     inkscape:window-y="27"
+     inkscape:window-width="1557"
+     inkscape:window-height="876"
+     inkscape:window-x="43"
+     inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -102,7 +102,12 @@
          x="104.59312"
          y="120.4851"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
-         id="tspan44">Open source nástroje v rozsahu 2-3 hodin přímo u Vás na škole.</tspan></text>
+         id="tspan44">Open source nástroje v rozsahu 2-3 hodin Vašim studentům</tspan><tspan
+         sodipodi:role="line"
+         x="104.59312"
+         y="128.42259"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.3499999px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';text-align:center;text-anchor:middle;stroke-width:0.26458332"
+         id="tspan117">přímo u Vás na škole.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -145,7 +150,7 @@
          x="17.744373"
          y="162.56647"
          style="font-size:4.93888903px;stroke-width:0.26458332"
-         id="tspan70">Nabízíme bezplatnou výukovou hodinu pro Vaše studenty</tspan><tspan
+         id="tspan70">Nabízíme bezplatnou výukovou lekci pro Vaše studenty v rozsahu 2-3 hodin</tspan><tspan
          sodipodi:role="line"
          x="17.744373"
          y="169.62202"
@@ -266,7 +271,7 @@
          style="font-size:4.93888903px;stroke-width:0.26458332">V případě jakýchkoli otázek nás kontaktujte na info@gismentors.cz.</tspan></text>
     <g
        id="g4801"
-       transform="translate(1.4739162,-18.166461)">
+       transform="matrix(0.64316504,0,0,0.64316504,3.3365309,2.9540729)">
       <g
          id="g4811"
          transform="translate(-12.85119,13.985119)">
@@ -499,16 +504,16 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#b3b3b3;stroke-width:0.1227229;">souřadnice</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.17488813px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.17937219"
-       x="-10.556299"
-       y="45.850521"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64254141px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.14106353"
+       x="-10.981837"
+       y="45.582474"
        id="text71-59"
        transform="rotate(-30)"><tspan
          sodipodi:role="line"
          id="tspan69-9"
-         x="-10.556299"
-         y="45.850521"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#b3b3b3;fill-opacity:1;stroke-width:0.17937219">Open source</tspan></text>
+         x="-10.981837"
+         y="45.582474"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#b3b3b3;fill-opacity:1;stroke-width:0.14106353">Open source</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.84508324px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.19612707"
@@ -532,5 +537,42 @@
          x="159.88393"
          y="57.509262"
          style="stroke-width:0.26458332" /></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.93724716"
+       d="M 184.66864,7.2357652 A 11.236034,11.236034 0 1 1 174.59495,26.608237"
+       id="path2-75" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:1.54979777"
+       x="171.88281"
+       y="12.272608"
+       width="14.723079"
+       height="11.623483"
+       id="rect4" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:0.96862358"
+       x="171.10791"
+       y="11.497709"
+       width="16.272877"
+       height="13.173282"
+       id="rect6" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#000000;stroke:none;stroke-width:1.93724716"
+       d="m 173.04516,33.969776 a 8.9113375,3.118968 0 1 1 17.82267,0"
+       id="path8-3" />
+    <text
+       style="font-weight:bold;font-size:4.84311819px;font-family:Verdana;fill:#ffffff;stroke-width:0.03874495"
+       x="171.88281"
+       y="16.147102"
+       font-weight="bold"
+       font-size="125"
+       id="text10">#</text>
+    <circle
+       style="fill:#000000;stroke:none;stroke-width:0.03874495"
+       cx="181.9565"
+       cy="31.257631"
+       r="1.1623483"
+       id="circle12" />
   </g>
 </svg>
