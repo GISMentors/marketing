@@ -29,8 +29,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="281.82118"
-     inkscape:cy="731.28696"
+     inkscape:cx="436.34899"
+     inkscape:cy="725.53477"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,7 +59,7 @@
        xml:space="preserve"
        id="flowRoot10"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.5;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-0.35215021,-38.175596)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.24436394,-0.73012643,-21.775004)"><flowRegion
          id="flowRegion12"
          style="font-size:24px;line-height:1.5"><rect
            id="rect14"
@@ -277,12 +277,12 @@
          transform="translate(-12.85119,13.985119)">
         <path
            inkscape:connector-curvature="0"
-           style="fill:#179bd7;fill-opacity:0.51162792;stroke-width:0.0470382"
+           style="fill:#808080;fill-opacity:0.51162792;stroke-width:0.0470382"
            d="m 30.347193,32.870268 c -5.684539,-1.535334 -9.14648,-7.159574 -7.717019,-12.537005 1.42946,-5.377431 7.217426,-8.503369 12.901965,-6.968035 5.684539,1.535334 9.146479,7.159573 7.717018,12.537004 -1.429461,5.377431 -7.217424,8.50337 -12.901964,6.968036 z"
            id="path2" />
         <path
            inkscape:connector-curvature="0"
-           style="fill:#eff2fa;stroke-width:0.0470382"
+           style="fill:#ffffff;stroke-width:0.0470382"
            d="m 25.945958,27.035862 -3.013805,-0.813997 c 0.110505,0.297025 0.235595,0.588897 0.373534,0.875192 l 2.747577,0.742092 c 0.24856,1.513338 0.757162,2.83518 1.484542,3.84388 0.85643,0.508534 1.796802,0.91375 2.809393,1.18724 1.01259,0.27349 2.028039,0.396472 3.02197,0.387749 1.130247,-0.507021 2.226334,-1.395406 3.192312,-2.580711 l 2.747579,0.742092 c 0.261426,-0.178431 0.514572,-0.368096 0.757619,-0.569679 l -3.013806,-0.813998 c 0.95326,-1.334289 1.746699,-2.970306 2.276254,-4.805143 l 3.814311,1.030205 c 0.03653,-0.11887 0.07347,-0.237389 0.105679,-0.358561 0.03221,-0.121173 0.05902,-0.242428 0.08634,-0.363786 l -3.814312,-1.030205 c 0.45154,-1.85591 0.57593,-3.672628 0.41224,-5.308594 l 3.013806,0.813997 c -0.110504,-0.297024 -0.235642,-0.588909 -0.373535,-0.875192 l -2.747625,-0.742104 c -0.248594,-1.513396 -0.75716,-2.835182 -1.484494,-3.843869 -0.856442,-0.508488 -1.79685,-0.913763 -2.809393,-1.18724 -1.012543,-0.273478 -2.028027,-0.396515 -3.021922,-0.387737 -1.130295,0.50701 -2.22637,1.395351 -3.192362,2.5807 l -2.747577,-0.742091 c -0.261472,0.178418 -0.514571,0.368096 -0.757618,0.569679 l 3.013805,0.813996 c -0.95326,1.334291 -1.746698,2.970305 -2.276254,4.805144 l -3.81431,-1.030204 c -0.03653,0.11887 -0.07349,0.237431 -0.105686,0.35856 -0.0322,0.121127 -0.05902,0.242427 -0.08633,0.363787 l 3.81431,1.030204 c -0.451539,1.855909 -0.575929,3.672629 -0.412239,5.308594 z m 9.961584,-13.543428 c 1.588006,0.626744 2.677557,2.377835 3.109856,4.685502 L 34.95377,17.080393 Z m -1.145803,4.310351 4.377832,1.182406 c 0.186589,1.61198 0.07407,3.440002 -0.381828,5.316806 l -5.34025,-1.442345 z m -1.536277,5.779259 5.340344,1.44237 c -0.536193,1.855117 -1.345506,3.494896 -2.306666,4.79693 l -4.377831,-1.182406 1.344247,-5.056869 z m -1.536276,5.779259 4.063627,1.097542 c -1.519071,1.780623 -3.331306,2.747975 -5.0174,2.490417 z m -1.717374,3.381718 C 28.383805,32.116279 27.294266,30.365143 26.86191,28.057507 l 4.063675,1.097555 z m 5.172129,-19.456827 -0.953772,3.587958 -4.063675,-1.097555 c 1.519073,-1.780622 3.331305,-2.747972 5.017447,-2.490403 z m -5.523682,3.127931 4.377833,1.182407 -1.344246,5.056867 -5.340251,-1.442345 c 0.536142,-1.855082 1.345471,-3.494952 2.306664,-4.796929 z m 2.841602,6.961678 -1.344246,5.056869 -4.377832,-1.182406 c -0.186589,-1.611982 -0.07407,-3.440003 0.381875,-5.316795 z"
            id="path6" />
         <path
@@ -363,7 +363,7 @@
        transform="matrix(0.07111127,0,0,0.06673643,21.105035,13.442259)"
        id="g54" />
     <g
-       transform="matrix(0.04276127,-0.01772889,0.01799271,0.03430697,151.29827,73.143511)"
+       transform="matrix(0.04276127,-0.01772889,0.01799271,0.03430697,162.25958,76.545297)"
        id="g4"
        style="fill:#666666">
       <path
@@ -457,7 +457,7 @@
          inkscape:connector-curvature="0" />
     </g>
     <g
-       transform="matrix(1.3296987,0,0,1.3296987,75.899585,75.138276)"
+       transform="matrix(1.3296987,0,0,1.3296987,75.899585,77.784109)"
        id="g4-3"
        style="fill:#666666;fill-opacity:0.59534882">
       <path
@@ -468,27 +468,27 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
-       x="63.731339"
-       y="125.89008"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="68.367477"
+       y="128.46899"
        id="text71"
        transform="rotate(-25)"><tspan
          sodipodi:role="line"
          id="tspan69"
-         x="63.731339"
-         y="125.89008"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#b3b3b3;fill-opacity:1;stroke-width:0.26458332;">GIS</tspan></text>
+         x="68.367477"
+         y="128.46899"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#b3b3b3;fill-opacity:1;stroke-width:0.26458332">GIS</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.89597225px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:0.98604647;stroke:none;stroke-width:0.22239931"
-       x="81.202316"
-       y="39.232994"
+       x="73.913193"
+       y="44.750721"
        id="text71-2"
        transform="rotate(30)"><tspan
          sodipodi:role="line"
          id="tspan69-7"
-         x="81.202316"
-         y="39.232994"
+         x="73.913193"
+         y="44.750721"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#b3b3b3;fill-opacity:0.98604647;stroke-width:0.22239931">GPS</tspan></text>
     <text
        xml:space="preserve"
@@ -517,14 +517,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.84508324px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.19612707"
-       x="143.40396"
-       y="75.947006"
+       x="139.87141"
+       y="77.970238"
        id="text71-51"
        transform="rotate(8)"><tspan
          sodipodi:role="line"
          id="tspan69-4"
-         x="143.40396"
-         y="75.947006"
+         x="139.87141"
+         y="77.970238"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#b3b3b3;stroke-width:0.19612707">S-JTSK</tspan></text>
     <text
        xml:space="preserve"
@@ -537,42 +537,87 @@
          x="159.88393"
          y="57.509262"
          style="stroke-width:0.26458332" /></text>
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:none;stroke:#000000;stroke-width:1.93724716"
-       d="M 184.66864,7.2357652 A 11.236034,11.236034 0 1 1 174.59495,26.608237"
-       id="path2-75" />
-    <rect
-       style="fill:#000000;stroke:none;stroke-width:1.54979777"
-       x="171.88281"
-       y="12.272608"
-       width="14.723079"
-       height="11.623483"
-       id="rect4" />
-    <rect
-       style="fill:none;stroke:#000000;stroke-width:0.96862358"
-       x="171.10791"
-       y="11.497709"
-       width="16.272877"
-       height="13.173282"
-       id="rect6" />
-    <path
-       inkscape:connector-curvature="0"
-       style="fill:#000000;stroke:none;stroke-width:1.93724716"
-       d="m 173.04516,33.969776 a 8.9113375,3.118968 0 1 1 17.82267,0"
-       id="path8-3" />
     <text
-       style="font-weight:bold;font-size:4.84311819px;font-family:Verdana;fill:#ffffff;stroke-width:0.03874495"
-       x="171.88281"
-       y="16.147102"
+       style="font-weight:bold;font-size:5.24686956px;font-family:Verdana;fill:#ffffff;stroke-width:0.04197496"
+       x="171.13377"
+       y="15.865763"
        font-weight="bold"
        font-size="125"
        id="text10">#</text>
-    <circle
-       style="fill:#000000;stroke:none;stroke-width:0.03874495"
-       cx="181.9565"
-       cy="31.257631"
-       r="1.1623483"
-       id="circle12" />
-  </g>
+    <g
+       id="g3712"
+       transform="matrix(0.20043899,0,0,0.20043899,69.050165,-137.21765)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:14.76377964;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 592.61569,721.65522 a 85.629924,85.629924 0 1 1 -76.77167,147.6378"
+         id="path8-3" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-opacity:1"
+         x="495.17471"
+         y="760.04108"
+         width="112.20473"
+         height="88.58268"
+         id="rect10" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:7.38188982;stroke-opacity:1"
+         x="489.2692"
+         y="754.13556"
+         width="124.01575"
+         height="100.39371"
+         id="rect12" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-opacity:1"
+         inkscape:connector-curvature="0"
+         d="m 504.033,925.39543 a 67.91339,23.769687 0 1 1 135.82678,0"
+         id="path14-6" />
+      <text
+         style="font-weight:bold;font-size:35.43307114px;line-height:0%;font-family:Verdana;fill:#ffffff;stroke:#000000;stroke-opacity:1"
+         x="495.17471"
+         y="789.56866"
+         font-weight="bold"
+         font-size="120"
+         id="text16">#</text>
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-width:0.2952756;stroke-opacity:1"
+         cx="571.94635"
+         cy="904.72614"
+         r="8.8582678"
+         id="circle18" />
+    </g>
+    <text
+       id="text874"
+       y="50.08979"
+       x="177.07294"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:8.26200676px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:'FreeSans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.20655017px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(0.96083788,1.0407583)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.75539207px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke:#000000;stroke-width:0.20655017px;stroke-opacity:1"
+         y="50.08979"
+         x="177.07294"
+         id="tspan872"
+         sodipodi:role="line">GISMentors.cz</tspan></text>
+    <text
+       id="text952"
+       y="56.635773"
+       x="171.68298"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.76964283px;line-height:125%;font-family:FreeSans;-inkscape-font-specification:FreeSans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21959631px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"
+       transform="scale(1.0310467,0.96988818)"><tspan
+         y="56.635773"
+         x="171.68298"
+         id="tspan950"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.55655885px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.21959631px">by OpenGeoLabs</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot150"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:20px;line-height:1.25;letter-spacing:0px;word-spacing:0px;text-anchor:start;text-align:start;-inkscape-font-specification:'sans-serif, Normal';font-stretch:normal;font-variant:normal;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal"><flowRegion
+         id="flowRegion152"><rect
+           id="rect154"
+           width="254.28572"
+           height="297.14285"
+           x="562.85712"
+           y="-47.480316" /></flowRegion><flowPara
+         id="flowPara156"></flowPara></flowRoot>  </g>
 </svg>
