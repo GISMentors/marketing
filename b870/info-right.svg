@@ -14,7 +14,7 @@
    height="744.09448"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="info-right.svg">
   <defs
      id="defs4">
@@ -33,14 +33,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="220.93681"
+     inkscape:cx="-60.491761"
      inkscape:cy="484.26706"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
+     inkscape:window-width="1853"
      inkscape:window-height="1016"
-     inkscape:window-x="0"
+     inkscape:window-x="67"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
@@ -93,7 +93,7 @@
          font-weight="bold"
          y="515.13422"
          x="457.8009"
-         style="font-size:35.43307114px;font-weight:bold;fill:#ffffff;font-family:Verdana">#</text>
+         style="font-weight:bold;font-size:35.43307114px;line-height:0%;font-family:Verdana;fill:#ffffff">#</text>
       <circle
          transform="matrix(0.2952756,0,0,0.2952756,348.54895,364.54367)"
          id="circle3068"
@@ -110,7 +110,7 @@
          id="text3072"
          font-size="125"
          font-weight="bold"
-         style="font-size:125px;font-weight:bold;fill:#000000;stroke:#000000;font-family:Verdana"
+         style="font-weight:bold;font-size:125px;line-height:0%;font-family:Verdana;fill:#000000;stroke:#000000"
          y="0"
          x="0">
         <textPath
@@ -122,7 +122,7 @@
          transform="matrix(0.2952756,0,0,0.2952756,348.54895,364.54367)"
          id="text3076"
          font-size="180"
-         style="font-size:180px;fill:#000000;stroke:#000000;font-family:Verdana"
+         style="font-size:180px;line-height:0%;font-family:Verdana;fill:#000000;stroke:#000000"
          y="50"
          x="0">
         <textPath
@@ -133,26 +133,25 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="539.47321"
        y="799.79071"
-       id="text3099"
-       sodipodi:linespacing="125%"><tspan
+       id="text3099"><tspan
          sodipodi:role="line"
          id="tspan3101"
          x="539.47321"
          y="799.79071"
-         style="font-weight:bold;font-size:62.5px;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">Školení</tspan><tspan
+         style="font-weight:bold;font-size:62.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">Školení</tspan><tspan
          sodipodi:role="line"
          x="539.47321"
          y="877.91571"
          id="tspan3105"
-         style="font-weight:bold;font-size:62.5px;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">QGIS pro začátečníky</tspan><tspan
+         style="font-weight:bold;font-size:62.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">QGIS pro začátečníky</tspan><tspan
          sodipodi:role="line"
          x="539.47321"
          y="956.04071"
          id="tspan3107"
-         style="font-weight:bold;font-size:62.5px;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">B-870</tspan></text>
+         style="font-weight:bold;font-size:62.5px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'Sans Bold';text-align:center;text-anchor:middle">B-870</tspan></text>
     <g
        id="g3968"
        transform="matrix(0,-0.72360668,-0.72360668,0,1238.1742,1166.5149)">
